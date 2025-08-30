@@ -1,1 +1,1 @@
-# Cinema-sales-prediction
+Using regression models to predict cinema revenue from historical sales datasets 
